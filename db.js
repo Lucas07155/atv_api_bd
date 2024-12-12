@@ -1,3 +1,6 @@
+//  Desenvolvido por: Lucas de carvalho praxedes;
+//  Data: 11/12/2024;
+// professor:Luís Alberto Pires de Oliveira;
 
 require("dotenv").config();
 
